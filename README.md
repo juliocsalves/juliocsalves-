@@ -22,6 +22,7 @@
 |----------------------|------------------------------------|-----------------------------|
 | Currículo Web        | Currículo online em Angular 19     | https://juliocsalves.github.io/curriculo/        |
 | Pokédex Angular      | Pokédex com cards interativos      | https://juliocsalves.github.io/angular-pokedex/  |
+| Shinobiverse Angular | Simulação de Shinobidex com cards interativos | https://juliocsalves.github.io/angular-shinobiverse/  |
 | PSN Store Angular    | Clone visual da PSN Store           | https://juliocsalves.github.io/psn-store/        |
 | E-commerce Vitral    | Projeto em desenvolvimento         | https://github.com/juliocsalves/angular-ecommerce |
 
