@@ -31,7 +31,7 @@
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/juliocsalves)  
-- E-mail: seuemail@exemplo.com  
+- E-mail: juliocsalves@gmail.com.com  
 
 ---
 
